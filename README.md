@@ -61,10 +61,15 @@ My name is João Paulo Jacomini Batista, I am 20 years old, and I am originally 
 <br/>
 <br/>
 
+---
+
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JoaoPaulojac&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=JoaoPaulojac&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)
-<br/>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JoaoPaulojac&layout=donut&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=JoaoPaulojac&layout=donut&langs_count=4&theme=dark)
+<img align="left" width="45%" src="https://github-stats-extended.vercel.app/api?username=JoaoPaulojac&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast" />
+
+<img align="right" width="45%"  src="https://github-stats-extended.vercel.app/api/top-langs?username=JoaoPaulojac&layout=compact&langs_count=4&theme=highcontrast" />
+
+<br clear="left"/>
+
 
 
