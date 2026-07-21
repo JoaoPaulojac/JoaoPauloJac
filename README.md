@@ -63,22 +63,8 @@ My name is João Paulo Jacomini Batista, I am 20 years old, and I am originally 
 
 ### 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoPauloJac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloJac&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JoaoPaulojac&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=JoaoPaulojac&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)
+<br/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JoaoPaulojac&layout=donut&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=JoaoPaulojac&layout=donut&langs_count=4&theme=dark)
 
 
