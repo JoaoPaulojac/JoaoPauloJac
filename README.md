@@ -58,6 +58,24 @@ My name is João Paulo Jacomini Batista, I am 20 years old, and I am originally 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Sqlite" 
+    title="Sqlite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+
 <br/>
 <br/>
 
